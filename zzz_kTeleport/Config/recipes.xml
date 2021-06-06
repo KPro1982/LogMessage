@@ -1,0 +1,19 @@
+<configs>
+	
+<append xpath="/recipes">
+
+	<recipe name="KProSetHome" count="1" craft_time = "1">
+		<ingredient name="resourceRockSmall" count="1"/>		
+	</recipe>
+	<recipe name="KProGoHome" count="1" craft_time = "1">
+		<ingredient name="resourceRockSmall" count="1"/>		
+	</recipe>
+	<recipe name="KProReturn" count="1" craft_time = "1">
+		<ingredient name="resourceRockSmall" count="1"/>		
+	</recipe>
+	<recipe name="resourceRockSmall" count="100" craft_time = "1">
+		<ingredient name="resourceRockSmall" count="1"/>		
+	</recipe>
+	
+</append>
+</configs>

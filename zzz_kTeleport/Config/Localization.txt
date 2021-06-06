@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+KProSetHome,Items,Melee,,,"A key for your home."
+KProSetHomeDesc,Items,Melee,,,"Use your key to set your home location!"
+KProGoHome,Items,Melee,,,"A glowing key."
+KProGoHomeDesc,Items,Melee,,,"Use this key if you are missing home."
+KProReturn,Items,Melee,,,"A blue stone"
+KProReturnDesc,Items,Melee,,,"Who says that you cannever go back!"
